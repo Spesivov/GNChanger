@@ -1,0 +1,24 @@
+{
+  "Currencies": [
+    [
+      "USD",
+      "BTC",
+      "AUD"
+    ],
+    [
+      "USD",
+      "EUR",
+      "ETH"
+    ],
+    [
+      "LTC",
+      "WAVE",
+      "USDC"
+    ],
+    [
+      "USDT",
+      "MATIC",
+      "ATOMIC"
+    ]
+  ]
+}
